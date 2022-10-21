@@ -1,5 +1,5 @@
 baseurl: https://example.com
-languageCode: en-us
+languageCode: zh-tw
 theme: hugo-theme-stack
 paginate: 20
 title: Step Swing
@@ -34,7 +34,7 @@ DefaultContentLanguage: en
 hasCJKLanguage: false
 
 permalinks:
-    post: /p/:slug/
+    post: /article/:slug/
     page: /:slug/
 
 params:
@@ -46,7 +46,7 @@ params:
 
     footer:
         since: 2020
-        customText:
+        customText: All rights reserved，未經允許不得隨意轉載
 
     dateFormat:
         published: Jan 02, 2006
