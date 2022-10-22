@@ -6,4 +6,12 @@ image: https://f4.bcbits.com/img/a4192209164_16.jpg
 tags:
   - test
 ---
-f來打第一篇a純文章dfasdfasfdsadfsd
+來打第一篇a純文章dfasdfasfdsadfsd
+
+![haha](https://f4.bcbits.com/img/a4192209164_16.jpg "haha")
+
+
+
+E﻿nglish looks better?
+
+a﻿ little wirre
